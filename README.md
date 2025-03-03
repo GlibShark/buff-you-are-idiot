@@ -1,1 +1,1 @@
-# You are idiot wrinten on python
+# You are idiot (Extreme)
