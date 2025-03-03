@@ -1,1 +1,1 @@
-# buff-you-are-idiot
+# You are idiot wrinten on python
